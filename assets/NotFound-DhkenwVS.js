@@ -1,1 +1,0 @@
-import{c as r,o as s}from"./index-BwlxGF34.js";const _=(t,o)=>{const c=t.__vccOpts||t;for(const[e,n]of o)c[e]=n;return c},a={};function f(t,o){return s(),r("h1",null,"404")}const u=_(a,[["render",f]]);export{u as default};
